@@ -1,0 +1,14 @@
+C:\Users\LZhang\source\repos\emailHTML\emailAlert.exe
+C:\Users\LZhang\source\repos\emailHTML\emailAlert.dll
+C:\Users\LZhang\source\repos\emailHTML\emailAlert.deps.json
+C:\Users\LZhang\source\repos\emailHTML\emailAlert.runtimeconfig.json
+C:\Users\LZhang\source\repos\emailHTML\emailAlert.pdb
+C:\Users\LZhang\source\repos\emailHTML\Microsoft.Extensions.Configuration.dll
+C:\Users\LZhang\source\repos\emailHTML\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LZhang\source\repos\emailHTML\Microsoft.Extensions.Primitives.dll
+C:\Users\LZhang\source\repos\emailHTML\System.Data.SqlClient.dll
+C:\Users\LZhang\source\repos\emailHTML\runtimes\win-arm64\native\sni.dll
+C:\Users\LZhang\source\repos\emailHTML\runtimes\win-x64\native\sni.dll
+C:\Users\LZhang\source\repos\emailHTML\runtimes\win-x86\native\sni.dll
+C:\Users\LZhang\source\repos\emailHTML\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LZhang\source\repos\emailHTML\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

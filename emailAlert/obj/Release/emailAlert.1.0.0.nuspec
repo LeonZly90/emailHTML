@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>emailAlert</id>
+    <version>1.0.0</version>
+    <authors>emailAlert</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Microsoft.Extensions.Configuration" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\LZhang\source\repos\emailAlert-V0\emailAlert\bin\Release\net5.0\emailAlert.runtimeconfig.json" target="lib\net5.0\emailAlert.runtimeconfig.json" />
+    <file src="C:\Users\LZhang\source\repos\emailAlert-V0\emailAlert\bin\Release\net5.0\emailAlert.dll" target="lib\net5.0\emailAlert.dll" />
+  </files>
+</package>
